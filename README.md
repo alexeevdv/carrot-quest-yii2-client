@@ -1,6 +1,6 @@
 # carrot-quest-yii2-client
 
-[![Build Status](https://travis-ci.org/alexeevdv/carrot-quest-yii2-client.svg?branch=master)](https://travis-ci.org/alexeevdv/carrot-quest-yii2-client) 
+[![Build Status](https://travis-ci.com/alexeevdv/carrot-quest-yii2-client.svg?branch=master)](https://travis-ci.com/alexeevdv/carrot-quest-yii2-client) 
 [![codecov](https://codecov.io/gh/alexeevdv/carrot-quest-yii2-client/branch/master/graph/badge.svg)](https://codecov.io/gh/alexeevdv/carrot-quest-yii2-client)
 ![PHP 7.1](https://img.shields.io/badge/PHP-7.1-green.svg) 
 ![PHP 7.2](https://img.shields.io/badge/PHP-7.2-green.svg)
