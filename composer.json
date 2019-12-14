@@ -1,0 +1,32 @@
+{
+    "name": "alexeevdv/carrot-quest-yii2-client",
+    "description": "Yii2 component for carrot-quest-php-client",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry V. Alekseev",
+            "email": "mail@alexeevdv.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "alexeevdv\\yii\\CarrotQuest\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "alexeevdv/carrot-quest-php-client": "^0.1",
+        "yiisoft/yii2": "^2.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "require-dev": {
+        "yiisoft/yii2-coding-standards": "^2.0",
+        "codeception/codeception": "^3.1"
+    }
+}
